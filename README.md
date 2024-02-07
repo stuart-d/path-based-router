@@ -4,8 +4,10 @@ Build a dockerised nginx instance to redirect users to URL's based on path.
 
 e.g. 
 
+```
 https://localhost/news --> https://news.com.au
 https://localhost/news/cnn --> https://cnn.com.au
+```
 
 ```
 # Clone repo
